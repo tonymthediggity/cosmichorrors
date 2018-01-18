@@ -1,0 +1,32 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2017
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Cosmic Horrors", "Cosmic Horrors.csproj", "{81AA35F8-E492-8B42-817C-2B0EA74EADDC}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Cosmic Horrors.Plugins", "Cosmic Horrors.Plugins.csproj", "{B3F200D4-44B8-D6A7-C4FD-202003126F32}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Cosmic Horrors.Editor.Plugins", "Cosmic Horrors.Editor.Plugins.csproj", "{81952278-2561-8E13-38E3-8CC37B1A5E85}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{81AA35F8-E492-8B42-817C-2B0EA74EADDC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{81AA35F8-E492-8B42-817C-2B0EA74EADDC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{81AA35F8-E492-8B42-817C-2B0EA74EADDC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{81AA35F8-E492-8B42-817C-2B0EA74EADDC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B3F200D4-44B8-D6A7-C4FD-202003126F32}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B3F200D4-44B8-D6A7-C4FD-202003126F32}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B3F200D4-44B8-D6A7-C4FD-202003126F32}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B3F200D4-44B8-D6A7-C4FD-202003126F32}.Release|Any CPU.Build.0 = Release|Any CPU
+		{81952278-2561-8E13-38E3-8CC37B1A5E85}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{81952278-2561-8E13-38E3-8CC37B1A5E85}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{81952278-2561-8E13-38E3-8CC37B1A5E85}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{81952278-2561-8E13-38E3-8CC37B1A5E85}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
